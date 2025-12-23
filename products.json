@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": "\u20b92,999",
+    "image": "https://via.placeholder.com/300",
+    "description": "High quality wireless headphones with noise cancellation.",
+    "affiliate": "https://example.com/affiliate-link-1"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": "\u20b94,999",
+    "image": "https://via.placeholder.com/300",
+    "description": "Smart watch with fitness tracking and notifications.",
+    "affiliate": "https://example.com/affiliate-link-2"
+  }
+]
